@@ -1,1 +1,1 @@
-# Term-Paper-Klein-Gordon-Theory
+# Term-Paper:Klein-Gordon-Theory
